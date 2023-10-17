@@ -1,0 +1,1 @@
+indexstyle.css referente ao estilo da página index apenas.

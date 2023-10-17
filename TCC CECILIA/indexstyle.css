@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.texto-esquerda {
+  text-align: left;
+}
+
+.texto-direita {
+  text-align: right;
+}
+
+.texto-centro {
+  text-align: center;
+}
+
+.texto-justificado {
+  text-align: justify;
+}
+
+#elemento {#f90; width: 200px; height: 200px;
+margin: 25px; padding: 25px; border: 1px solid #fff; }
